@@ -9,6 +9,28 @@
 
 Terminal and editor coding agents plus the setups, parallel runners, spec workflows, code context, usage trackers and review tools around them. Each repo sits where it does its job, not by star count.
 
+<!-- onboarding:start -->
+### In 3 Minuten startklar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/onboarding-dunkel.svg">
+  <img alt="In 3 Minuten startklar: 1. Start here: 4 Picks, einer pro Rolle; 2. Rubrik: nach Aufgabe sortiert, nicht Hype; 3. Ausprobieren: README des Picks, Install-Zeile; 4. Dranbleiben: Stern setzen, Updates im Feed" src=".github/assets/onboarding-hell.svg" width="100%">
+</picture>
+
+1. **Start here.** Oben unter [Start here](#start-here) stehen 4 Picks, einer je Rolle. Fang mit dem an, der zu deiner Lücke passt.
+2. **Rubrik.** Unter [Contents](#contents) die Rubrik wählen: 459 Repos, jedes genau einmal einsortiert, nach der Aufgabe, die es erledigt.
+3. **Ausprobieren.** Den Pick öffnen und seine Install-Zeile ausführen; die Sterne zeigen, wie viele ihn schon nutzen.
+4. **Dranbleiben.** Dieser Liste einen Stern geben: neue Picks erscheinen in deinem GitHub-Feed.
+
+**Was du davon hast**
+
+- 459 Repos rund um Coding Agents, nach Aufgabe sortiert, statt tagelang selbst zu suchen.
+- Jeder Pick sagt in einem Satz, wofür er gut ist.
+- Aufgenommen wird nur, was öffentlich ist, eine Lizenz hat und heute läuft.
+
+**Nächster Schritt:** Fehlt ein Repo? Über [CONTRIBUTING.md](CONTRIBUTING.md) vorschlagen, ein Satz zur Aufgabe genügt; mehr Listen auf [github.com/Wellux](https://github.com/Wellux).
+<!-- onboarding:end -->
+
 ## Start here
 
 No time for 459 repos? Start with these 4, one per role. Add the rest when you feel the gap.
